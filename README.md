@@ -12,4 +12,4 @@ The raw sequencing reads were deposited in the NCBI Short Read Archive under the
 
 If you use part of this script, please cite:
 
-Nepel, M., Pfeifer, J., Oberhauser, F. B., Richter, A., Woebken, D., and Mayer, V. E. (2022). Nitrogen fixation by diverse diazotrophic communities can support population growth of arboreal ants. BMC Biol.
+Nepel, M., Pfeifer, J., Oberhauser, F. B., Richter, A., Woebken, D., and Mayer, V. E. (2022). Nitrogen fixation by diverse diazotrophic communities can support population growth of arboreal ants. BMC Biol. 20, 135. doi:10.1186/s12915-022-01289-0
