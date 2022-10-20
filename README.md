@@ -8,7 +8,7 @@ R analysis scripts studying nitrogen fixing bacteria in arboreal ant nests
 The raw sequencing reads were deposited in the NCBI Short Read Archive under the BioProject accession number PRJNA777006
 
 
-# Citation
+# citation
 
 If you use part of this script, please cite:
 
